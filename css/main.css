@@ -43,7 +43,6 @@ span {
 }
 
 .btn-ghost:hover,
-
 .btn-ghost:focus {
   background-color: rgba(180, 255, 244, .2);
   border-color: #b4fff4;
